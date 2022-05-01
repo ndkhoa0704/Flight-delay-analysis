@@ -6,3 +6,5 @@ ___
 - Create a ml model to predict possible delayed flights
 # Data source
 - The data was provided by the teacher
+# More information
+- Please read the included pdf file
